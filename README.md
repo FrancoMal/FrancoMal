@@ -14,9 +14,9 @@ Durante la cursada de SoyHenry, mas allá de la programación, aprendí a organi
 
 <h3>Proyecto CoderHouse: Burgers Fantasy </h3>
 
-- <a href= "https://github.com/FrancoMal/burgers-fantasy"> Burgers Fantasy </a>
+-<a href= "https://github.com/FrancoMal/burgers-fantasy"> Burgers Fantasy </a>
 <br/>
-- <a href= "https://francomal.github.io/burgers-fantasy/"> Sitio Web </a>
+-<a href= "https://francomal.github.io/burgers-fantasy/"> Sitio Web </a>
 
 ##  Habilidades Tech:
 - JavaScript
