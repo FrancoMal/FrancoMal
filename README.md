@@ -19,6 +19,7 @@ Desarrollador orientado a productos, con experiencia en **desarrollo Full Stack*
 - Participo en el desarrollo de la plataforma **Integraly.dev** y de un entorno de programación asistido por IA.
 
 ### 🤖 Fundador y Desarrollador — *Trazo Inicial* · Abr 2026 – Presente
+- https://trazoinicial.com/
 - Desarrollo integral de un **micro-SaaS educativo impulsado por IA**, desde la arquitectura hasta la operación y la atención a clientes.
 - **Automatización de informes educativos** que reduce el tiempo de elaboración en ~**90%** (de unas 5 horas a menos de 30 minutos por docente).
 - Integración y **fine-tuning de modelos** (OpenAI, Claude y open-source como Gemma con Unsloth).
@@ -28,7 +29,7 @@ Desarrollador orientado a productos, con experiencia en **desarrollo Full Stack*
 ## 📂 Proyectos destacados
 
 - **🧩 Integraly.dev** — Entorno VPS preconfigurado para desarrollar con **Claude Code**, entregado listo para usar (app inicial, base de datos e integraciones como MercadoLibre) para que usuarios sin perfil técnico escalen su negocio delegándole la configuración a la IA.
-- **🎓 Trazo Inicial** — Micro-SaaS educativo con IA: generación automática de informes, formularios inteligentes, panel administrativo y analítica.
+- **🎓 Trazo Inicial** — Micro-SaaS educativo con IA: generación automática de informes, formularios inteligentes, panel administrativo y analítica. 
 
 ---
 
